@@ -4,16 +4,16 @@ export const FeedbackStore = writable([
   {
     id: 1,
     rating: 10,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "I had a very enjoyable user experience and the design is top notch. Well done!.",
   },
   {
     id: 2,
     rating: 9,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "Cool design and animations.",
   },
   {
     id: 3,
     rating: 8,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "I'll definitely recommend this app to my friends.",
   },
 ]);
